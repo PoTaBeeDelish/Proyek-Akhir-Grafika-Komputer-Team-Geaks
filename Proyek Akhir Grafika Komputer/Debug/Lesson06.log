@@ -1,0 +1,71 @@
+﻿  Demo.cpp
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(492,76): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(529,47): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(529,47): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(539,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(544,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(549,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(563,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(568,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(573,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(653,76): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(689,47): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(689,47): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(699,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(704,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(709,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(723,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(728,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(733,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1287,76): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1311,77): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1332,77): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1368,76): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1393,77): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1414,77): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1617,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1627,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1628,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1629,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1630,48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1631,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1632,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1633,47): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1647,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1648,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1649,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1650,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1651,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1652,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1653,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1667,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1668,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1669,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1670,47): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1671,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1672,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1673,48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1687,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1688,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1689,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1690,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1691,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1692,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1693,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1713,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1713,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1714,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1714,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1727,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1728,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1731,47): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1732,47): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1733,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1740,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1743,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1744,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1745,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1750,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Lesson06\Demo.cpp(1802,72): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Lesson06.vcxproj -> C:\Users\arman\Downloads\Compressed\Grafika Komputer dan Visualisasi\vs\Debug\Lesson06.exe
